@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#build 意思是这两个目录里的东西，我不希望推送到github上
+/bin
+/build
